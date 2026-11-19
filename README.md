@@ -5,7 +5,7 @@
   <p>
     <a href="https://linkedin.com/in/anas-alshlah-9169272a9"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:anas.alshlah.dv@gmail.com"><img src="https://img.shields.io/badge/Email-anas.alshlah.dv%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-    <img src="https://img.shields.io/badge/Location-Damascus%2C%20Syria-blue?style=flat&logo=google-maps&logoColor=white" alt="Location" />
+    <img src="https://img.shields.io/badge/Work-Remote%20%2F%20Worldwide-2ea44f?style=flat" alt="Work" />
     <a href="https://github.com/StellarDevHub"><img src="https://img.shields.io/badge/Ecosystem-Stellar%20%26%20Soroban-black?style=flat&logo=stellar&logoColor=white" alt="Stellar Ecosystem" /></a>
   </p>
 </div>
